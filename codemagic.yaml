@@ -1,10 +1,10 @@
 workflows:
   testFlight:
-    name: Sahzad 
+    name: Sahzad
     integrations:
       app_store_connect: Ajwah Shahzad
     environment:
-      flutter: stable
+      xcode: latest
       ios_signing:
         bundle_identifier: com.darkpanel.rabbit
         provisioning_profiles:
@@ -14,14 +14,21 @@ workflows:
     scripts:
       - name: Set up code signing settings on Xcode project
         script: xcode-project use-profiles
-      - name: Get Flutter packages
-        script: flutter packages pub get
-      - name: Set up code signing
-        script: xcode-project use-profiles
       - name: Build IPA
-        script: flutter build ipa --release --export-options-plist=/Users/builder/export_options.plist
+        script: |
+          xcodebuild \
+            -workspace "Dark Aura Panel/Dark Aura Panel.xcworkspace" \
+            -scheme "Dark Aura Panel" \
+            -configuration Release \
+            -archivePath "$CM_BUILD_DIR/DarkAuraPanel.xcarchive" \
+            archive
+          xcodebuild \
+            -exportArchive \
+            -archivePath "$CM_BUILD_DIR/DarkAuraPanel.xcarchive" \
+            -exportOptionsPlist /Users/builder/export_options.plist \
+            -exportPath "$CM_BUILD_DIR/ipa"
     artifacts:
-      - build/ios/ipa/*.ipa
+      - $CM_BUILD_DIR/ipa/*.ipa
     publishing:
       email:
         recipients:
