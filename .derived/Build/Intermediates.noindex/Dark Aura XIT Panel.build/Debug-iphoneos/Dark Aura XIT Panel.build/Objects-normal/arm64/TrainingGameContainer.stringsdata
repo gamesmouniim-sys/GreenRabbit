@@ -1,0 +1,32 @@
+{
+  "source": "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/Dark Aura XIT Panel/Features/Training/TrainingGameContainer.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 123
+        }
+      },
+      {
+        "comment": "",
+        "key": "x%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 178
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 169
+        }
+      }
+    ]
+  },
+  "version": 1
+}

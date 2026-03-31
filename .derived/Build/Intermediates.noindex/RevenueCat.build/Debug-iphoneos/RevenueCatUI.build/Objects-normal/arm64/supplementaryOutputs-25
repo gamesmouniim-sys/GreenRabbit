@@ -1,0 +1,30 @@
+{
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/purchases-ios-spm/RevenueCatUI/CustomerCenter/Actions/CustomerCenterConfigData.HelpPath+PurchaseInformation.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerCenterConfigData.HelpPath+PurchaseInformation.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerCenterConfigData.HelpPath+PurchaseInformation.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerCenterConfigData.HelpPath+PurchaseInformation.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerCenterConfigData.HelpPath+PurchaseInformation.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerCenterConfigData.HelpPath+PurchaseInformation.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/purchases-ios-spm/RevenueCatUI/CustomerCenter/ColorFromAppearance.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ColorFromAppearance.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ColorFromAppearance.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ColorFromAppearance.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ColorFromAppearance.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ColorFromAppearance.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/purchases-ios-spm/RevenueCatUI/CustomerCenter/CustomerInfo+CurrentEntitlement.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerInfo+CurrentEntitlement.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerInfo+CurrentEntitlement.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerInfo+CurrentEntitlement.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerInfo+CurrentEntitlement.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerInfo+CurrentEntitlement.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/purchases-ios-spm/RevenueCatUI/CustomerCenter/Data/CustomerCenterError.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerCenterError.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerCenterError.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerCenterError.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerCenterError.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CustomerCenterError.swiftdeps"
+  }
+}

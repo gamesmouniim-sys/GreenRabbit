@@ -1,0 +1,40 @@
+{
+  "source": "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/Dark Aura XIT Panel/Features/Startup/StartupLoadingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Welcome to Dark Aura Experience",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connection required to download panel settings.",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Loading Panel Settings...",
+        "location": {
+          "startingColumn": 89,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reload Connection",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 41
+        }
+      }
+    ]
+  },
+  "version": 1
+}

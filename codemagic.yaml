@@ -1,0 +1,34 @@
+workflows:
+  testFlight:
+    name: Sahzad 
+    integrations:
+      app_store_connect: Ajwah Shahzad
+    environment:
+      flutter: stable
+      ios_signing:
+        bundle_identifier: com.darkpanel.rabbit
+        provisioning_profiles:
+          - GreenProfile
+        certificates:
+          - ShahzadCer
+    scripts:
+      - name: Set up code signing settings on Xcode project
+        script: xcode-project use-profiles
+      - name: Get Flutter packages
+        script: flutter packages pub get
+      - name: Set up code signing
+        script: xcode-project use-profiles
+      - name: Build IPA
+        script: flutter build ipa --release --export-options-plist=/Users/builder/export_options.plist
+    artifacts:
+      - build/ios/ipa/*.ipa
+    publishing:
+      email:
+        recipients:
+          - moja.stores@gmail.com
+        notify:
+          success: true
+          failure: true
+      app_store_connect:
+        auth: integration
+      

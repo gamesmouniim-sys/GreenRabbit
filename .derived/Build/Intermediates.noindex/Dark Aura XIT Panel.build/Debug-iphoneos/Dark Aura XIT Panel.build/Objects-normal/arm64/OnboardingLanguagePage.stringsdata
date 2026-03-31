@@ -1,0 +1,32 @@
+{
+  "source": "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/Dark Aura XIT Panel/Features/Onboarding/OnboardingLanguagePage.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Choose Language",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select your preferred language",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 74
+        }
+      }
+    ]
+  },
+  "version": 1
+}

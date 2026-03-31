@@ -1,0 +1,30 @@
+{
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/purchases-ios-spm/RevenueCatUI/CustomerCenter/Data/FeedbackSurveyData.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/FeedbackSurveyData.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/FeedbackSurveyData.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/FeedbackSurveyData.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/FeedbackSurveyData.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/FeedbackSurveyData.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/purchases-ios-spm/RevenueCatUI/CustomerCenter/Data/PromotionalOfferData.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/PromotionalOfferData.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/PromotionalOfferData.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/PromotionalOfferData.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/PromotionalOfferData.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/PromotionalOfferData.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/purchases-ios-spm/RevenueCatUI/CustomerCenter/Data/SemanticVersion.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/SemanticVersion.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/SemanticVersion.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/SemanticVersion.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/SemanticVersion.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/SemanticVersion.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/purchases-ios-spm/RevenueCatUI/CustomerCenter/Data/Transaction.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/Transaction.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/Transaction.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/Transaction.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/Transaction.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/Transaction.swiftdeps"
+  }
+}

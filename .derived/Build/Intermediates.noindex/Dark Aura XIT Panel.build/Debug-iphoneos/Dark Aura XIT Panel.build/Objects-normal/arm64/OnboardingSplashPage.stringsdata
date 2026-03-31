@@ -1,0 +1,32 @@
+{
+  "source": "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/Dark Aura XIT Panel/Features/Onboarding/OnboardingSplashPage.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "DARK AURA XIT PANEL",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "• AIM TRAINING •",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get Started",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 104
+        }
+      }
+    ]
+  },
+  "version": 1
+}

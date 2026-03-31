@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/AppLovinSDK.build/Debug-iphoneos/AppLovinSDKResources.build/Objects-normal/arm64/AppLovinSDKResources-primary.dia",
+    "emit-module-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/AppLovinSDK.build/Debug-iphoneos/AppLovinSDKResources.build/Objects-normal/arm64/AppLovinSDKResources-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/AppLovinSDK.build/Debug-iphoneos/AppLovinSDKResources.build/Objects-normal/arm64/AppLovinSDKResources-primary-emit-module.dia",
+    "pch" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/AppLovinSDK.build/Debug-iphoneos/AppLovinSDKResources.build/Objects-normal/arm64/AppLovinSDKResources-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/AppLovinSDK.build/Debug-iphoneos/AppLovinSDKResources.build/Objects-normal/arm64/AppLovinSDKResources-primary.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/AppLovin-MAX-Swift-Package/Sources/AppLovinSDKResources/AppLovinSDKResources.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/AppLovinSDK.build/Debug-iphoneos/AppLovinSDKResources.build/Objects-normal/arm64/AppLovinSDKResources.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/AppLovinSDK.build/Debug-iphoneos/AppLovinSDKResources.build/Objects-normal/arm64/AppLovinSDKResources.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/AppLovinSDK.build/Debug-iphoneos/AppLovinSDKResources.build/Objects-normal/arm64/AppLovinSDKResources.dia",
+    "index-unit-output-path" : "/AppLovinSDK.build/Debug-iphoneos/AppLovinSDKResources.build/Objects-normal/arm64/AppLovinSDKResources.o",
+    "llvm-bc" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/AppLovinSDK.build/Debug-iphoneos/AppLovinSDKResources.build/Objects-normal/arm64/AppLovinSDKResources.bc",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/AppLovinSDK.build/Debug-iphoneos/AppLovinSDKResources.build/Objects-normal/arm64/AppLovinSDKResources.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/AppLovinSDK.build/Debug-iphoneos/AppLovinSDKResources.build/Objects-normal/arm64/AppLovinSDKResources.swiftdeps",
+    "swiftmodule" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/AppLovinSDK.build/Debug-iphoneos/AppLovinSDKResources.build/Objects-normal/arm64/AppLovinSDKResources~partial.swiftmodule"
+  }
+}

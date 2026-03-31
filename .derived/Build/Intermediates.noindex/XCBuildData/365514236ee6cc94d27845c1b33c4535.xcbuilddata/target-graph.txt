@@ -1,0 +1,31 @@
+Target dependency graph (13 targets)
+Target 'Dark Aura XIT Panel' in project 'Dark Aura XIT Panel'
+➜ Explicit dependency on target 'RevenueCat' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCatUI' in project 'RevenueCat'
+➜ Explicit dependency on target 'GoogleMobileAds' in project 'GoogleMobileAds'
+➜ Explicit dependency on target 'AppLovinSDK' in project 'AppLovinSDK'
+Target 'AppLovinSDK' in project 'AppLovinSDK'
+➜ Explicit dependency on target 'AppLovinSDKResources' in project 'AppLovinSDK'
+Target 'AppLovinSDKResources' in project 'AppLovinSDK' (no dependencies)
+Target 'GoogleMobileAds' in project 'GoogleMobileAds'
+➜ Explicit dependency on target 'GoogleMobileAdsTarget' in project 'GoogleMobileAds'
+➜ Explicit dependency on target 'GoogleUserMessagingPlatform' in project 'GoogleUserMessagingPlatform'
+Target 'GoogleMobileAdsTarget' in project 'GoogleMobileAds'
+➜ Explicit dependency on target 'GoogleUserMessagingPlatform' in project 'GoogleUserMessagingPlatform'
+Target 'GoogleUserMessagingPlatform' in project 'GoogleUserMessagingPlatform'
+➜ Explicit dependency on target 'UserMessagingPlatformTarget' in project 'GoogleUserMessagingPlatform'
+Target 'UserMessagingPlatformTarget' in project 'GoogleUserMessagingPlatform' (no dependencies)
+Target 'RevenueCatUI' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCatUI' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat_RevenueCatUI' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat' in project 'RevenueCat'
+Target 'RevenueCatUI' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat_RevenueCatUI' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat' in project 'RevenueCat'
+Target 'RevenueCat_RevenueCatUI' in project 'RevenueCat' (no dependencies)
+Target 'RevenueCat' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat_RevenueCat' in project 'RevenueCat'
+Target 'RevenueCat' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat_RevenueCat' in project 'RevenueCat'
+Target 'RevenueCat_RevenueCat' in project 'RevenueCat' (no dependencies)

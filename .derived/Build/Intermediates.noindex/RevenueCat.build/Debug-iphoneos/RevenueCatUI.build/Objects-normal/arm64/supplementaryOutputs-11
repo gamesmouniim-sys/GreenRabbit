@@ -1,0 +1,23 @@
+{
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/purchases-ios-spm/RevenueCatUI/Templates/V2/Components/Button/ButtonComponentViewModel.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ButtonComponentViewModel.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ButtonComponentViewModel.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ButtonComponentViewModel.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ButtonComponentViewModel.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ButtonComponentViewModel.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/purchases-ios-spm/RevenueCatUI/Templates/V2/Components/Carousel/CarouselComponentView.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CarouselComponentView.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CarouselComponentView.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CarouselComponentView.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CarouselComponentView.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CarouselComponentView.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/purchases-ios-spm/RevenueCatUI/Templates/V2/Components/Carousel/CarouselComponentViewModel.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CarouselComponentViewModel.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CarouselComponentViewModel.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CarouselComponentViewModel.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CarouselComponentViewModel.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/CarouselComponentViewModel.swiftdeps"
+  }
+}

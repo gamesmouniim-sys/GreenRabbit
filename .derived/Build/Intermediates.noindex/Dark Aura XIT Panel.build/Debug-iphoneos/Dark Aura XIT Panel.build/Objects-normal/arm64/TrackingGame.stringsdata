@@ -1,0 +1,32 @@
+{
+  "source": "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/Dark Aura XIT Panel/Features/Training/Games/TrackingGame.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "TRACKING",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "TRACK",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 127
+        }
+      }
+    ]
+  },
+  "version": 1
+}

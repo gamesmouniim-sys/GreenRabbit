@@ -1,0 +1,23 @@
+{
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/purchases-ios-spm/RevenueCatUI/Templates/TemplateViewType.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/TemplateViewType.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/TemplateViewType.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/TemplateViewType.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/TemplateViewType.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/TemplateViewType.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/purchases-ios-spm/RevenueCatUI/Templates/V2/Components/Button/BottomSheetView.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/BottomSheetView.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/BottomSheetView.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/BottomSheetView.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/BottomSheetView.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/BottomSheetView.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/SourcePackages/checkouts/purchases-ios-spm/RevenueCatUI/Templates/V2/Components/Button/ButtonComponentView.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ButtonComponentView.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ButtonComponentView.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ButtonComponentView.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ButtonComponentView.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/RevenueCat.build/Debug-iphoneos/RevenueCatUI.build/Objects-normal/arm64/ButtonComponentView.swiftdeps"
+  }
+}

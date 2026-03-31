@@ -1,0 +1,96 @@
+{
+  "source": "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/Dark Aura XIT Panel/Features/DeviceInfos/DeviceInfosView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Ping estimate is approximate, measured against a test endpoint.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "DEVICE INFOS",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "RECOMMENDED SENSI",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "RECOMMENDED SENSI",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 225
+        }
+      },
+      {
+        "comment": "",
+        "key": "Free Fire Optimized Settings",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 258
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 267
+        }
+      },
+      {
+        "comment": "",
+        "key": "DPI",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 270
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 352
+        }
+      },
+      {
+        "comment": "",
+        "key": "COPIED!",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 388
+        }
+      },
+      {
+        "comment": "",
+        "key": "COPY ALL",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 388
+        }
+      },
+      {
+        "comment": "",
+        "key": "SHARE",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 418
+        }
+      }
+    ]
+  },
+  "version": 1
+}

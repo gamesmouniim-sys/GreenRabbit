@@ -1,0 +1,40 @@
+{
+  "source": "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/Dark Aura XIT Panel/Features/Settings/AppSettingsMenu.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "BECOME PRO",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unlock Pro Aim, Training, Extra Tools, and No Ads",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dark Aura XIT Panel",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 212
+        }
+      },
+      {
+        "comment": "",
+        "key": "App Icon",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 249
+        }
+      }
+    ]
+  },
+  "version": 1
+}

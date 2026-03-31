@@ -1,0 +1,681 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A1B2C3D4E5F6000000000001 /* RevenueCat in Frameworks */ = {isa = PBXBuildFile; productRef = A1B2C3D4E5F6000000000002 /* RevenueCat */; };
+		A1B2C3D4E5F6000000000003 /* RevenueCatUI in Frameworks */ = {isa = PBXBuildFile; productRef = A1B2C3D4E5F6000000000004 /* RevenueCatUI */; };
+		A2B2C3D4E5F6000000000001 /* GoogleMobileAds in Frameworks */ = {isa = PBXBuildFile; productRef = A2B2C3D4E5F6000000000002 /* GoogleMobileAds */; };
+		A3B2C3D4E5F6000000000001 /* AppLovinSDK in Frameworks */ = {isa = PBXBuildFile; productRef = A3B2C3D4E5F6000000000002 /* AppLovinSDK */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		88E035A22F6896C400516964 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 88E0358C2F6896C300516964 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 88E035932F6896C300516964;
+			remoteInfo = "Dark Aura Panel";
+		};
+		88E035AC2F6896C400516964 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 88E0358C2F6896C300516964 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 88E035932F6896C300516964;
+			remoteInfo = "Dark Aura Panel";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		88E035942F6896C300516964 /* Dark Aura Panel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Dark Aura Panel.app"; path = "Dark Aura Panel - Green Rabbit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		88E035A12F6896C400516964 /* Dark Aura PanelTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Dark Aura PanelTests.xctest"; path = "Dark Aura Panel - Green Rabbit.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		88E035AB2F6896C400516964 /* Dark Aura PanelUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Dark Aura PanelUITests.xctest"; path = "Dark Aura Panel - Green Rabbit.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		88E035962F6896C300516964 /* Dark Aura Panel */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Dark Aura Panel";
+			sourceTree = "<group>";
+		};
+		88E035A42F6896C400516964 /* Dark Aura PanelTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Dark Aura PanelTests";
+			sourceTree = "<group>";
+		};
+		88E035AE2F6896C400516964 /* Dark Aura PanelUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Dark Aura PanelUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		88E035912F6896C300516964 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A1B2C3D4E5F6000000000001 /* RevenueCat in Frameworks */,
+				A1B2C3D4E5F6000000000003 /* RevenueCatUI in Frameworks */,
+				A2B2C3D4E5F6000000000001 /* GoogleMobileAds in Frameworks */,
+				A3B2C3D4E5F6000000000001 /* AppLovinSDK in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88E0359E2F6896C400516964 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88E035A82F6896C400516964 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		889FEE642F68FDE6008608D8 /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Recovered References";
+			sourceTree = "<group>";
+		};
+		88E0358B2F6896C300516964 = {
+			isa = PBXGroup;
+			children = (
+				88E035962F6896C300516964 /* Dark Aura Panel */,
+				88E035A42F6896C400516964 /* Dark Aura PanelTests */,
+				88E035AE2F6896C400516964 /* Dark Aura PanelUITests */,
+				88E035952F6896C300516964 /* Products */,
+				889FEE642F68FDE6008608D8 /* Recovered References */,
+			);
+			sourceTree = "<group>";
+		};
+		88E035952F6896C300516964 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				88E035942F6896C300516964 /* Dark Aura Panel.app */,
+				88E035A12F6896C400516964 /* Dark Aura PanelTests.xctest */,
+				88E035AB2F6896C400516964 /* Dark Aura PanelUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		88E035932F6896C300516964 /* Dark Aura Panel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88E035B52F6896C400516964 /* Build configuration list for PBXNativeTarget "Dark Aura Panel" */;
+			buildPhases = (
+				88E035902F6896C300516964 /* Sources */,
+				88E035912F6896C300516964 /* Frameworks */,
+				88E035922F6896C300516964 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				88E035962F6896C300516964 /* Dark Aura Panel */,
+			);
+			name = "Dark Aura Panel";
+			packageProductDependencies = (
+				A1B2C3D4E5F6000000000002 /* RevenueCat */,
+				A1B2C3D4E5F6000000000004 /* RevenueCatUI */,
+				A2B2C3D4E5F6000000000002 /* GoogleMobileAds */,
+				A3B2C3D4E5F6000000000002 /* AppLovinSDK */,
+			);
+			productName = "Dark Aura Panel";
+			productReference = 88E035942F6896C300516964 /* Dark Aura Panel.app */;
+			productType = "com.apple.product-type.application";
+		};
+		88E035A02F6896C400516964 /* Dark Aura PanelTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88E035B82F6896C400516964 /* Build configuration list for PBXNativeTarget "Dark Aura PanelTests" */;
+			buildPhases = (
+				88E0359D2F6896C400516964 /* Sources */,
+				88E0359E2F6896C400516964 /* Frameworks */,
+				88E0359F2F6896C400516964 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				88E035A32F6896C400516964 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				88E035A42F6896C400516964 /* Dark Aura PanelTests */,
+			);
+			name = "Dark Aura PanelTests";
+			packageProductDependencies = (
+			);
+			productName = "Dark Aura PanelTests";
+			productReference = 88E035A12F6896C400516964 /* Dark Aura PanelTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		88E035AA2F6896C400516964 /* Dark Aura PanelUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88E035BB2F6896C400516964 /* Build configuration list for PBXNativeTarget "Dark Aura PanelUITests" */;
+			buildPhases = (
+				88E035A72F6896C400516964 /* Sources */,
+				88E035A82F6896C400516964 /* Frameworks */,
+				88E035A92F6896C400516964 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				88E035AD2F6896C400516964 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				88E035AE2F6896C400516964 /* Dark Aura PanelUITests */,
+			);
+			name = "Dark Aura PanelUITests";
+			packageProductDependencies = (
+			);
+			productName = "Dark Aura PanelUITests";
+			productReference = 88E035AB2F6896C400516964 /* Dark Aura PanelUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		88E0358C2F6896C300516964 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2630;
+				LastUpgradeCheck = 2630;
+				TargetAttributes = {
+					88E035932F6896C300516964 = {
+						CreatedOnToolsVersion = 26.3;
+					};
+					88E035A02F6896C400516964 = {
+						CreatedOnToolsVersion = 26.3;
+						TestTargetID = 88E035932F6896C300516964;
+					};
+					88E035AA2F6896C400516964 = {
+						CreatedOnToolsVersion = 26.3;
+						TestTargetID = 88E035932F6896C300516964;
+					};
+				};
+			};
+			buildConfigurationList = 88E0358F2F6896C300516964 /* Build configuration list for PBXProject "Dark Aura Panel" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 88E0358B2F6896C300516964;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				A1B2C3D4E5F6000000000005 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */,
+				A2B2C3D4E5F6000000000003 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */,
+				A3B2C3D4E5F6000000000003 /* XCRemoteSwiftPackageReference "AppLovin-MAX-Swift-Package" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 88E035952F6896C300516964 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				88E035932F6896C300516964 /* Dark Aura Panel */,
+				88E035A02F6896C400516964 /* Dark Aura PanelTests */,
+				88E035AA2F6896C400516964 /* Dark Aura PanelUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		88E035922F6896C300516964 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88E0359F2F6896C400516964 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88E035A92F6896C400516964 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		88E035902F6896C300516964 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88E0359D2F6896C400516964 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88E035A72F6896C400516964 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		88E035A32F6896C400516964 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 88E035932F6896C300516964 /* Dark Aura Panel */;
+			targetProxy = 88E035A22F6896C400516964 /* PBXContainerItemProxy */;
+		};
+		88E035AD2F6896C400516964 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 88E035932F6896C300516964 /* Dark Aura Panel */;
+			targetProxy = 88E035AC2F6896C400516964 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		88E035B32F6896C400516964 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 2SXW827956;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		88E035B42F6896C400516964 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 2SXW827956;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		88E035B62F6896C400516964 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = 2SXW827956;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 2.4;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.darkpanel.rabbit;
+				PRODUCT_NAME = "Dark Aura Panel - Green Rabbit";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		88E035B72F6896C400516964 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = 2SXW827956;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 2.4;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.darkpanel.rabbit;
+				PRODUCT_NAME = "Dark Aura Panel - Green Rabbit";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		88E035B92F6896C400516964 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2SXW827956;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.darkpanel.rabbit.Dark-Aura-PanelTests";
+				PRODUCT_NAME = "Dark Aura Panel - Green Rabbit";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dark Aura Panel - Green Rabbit.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Dark Aura Panel - Green Rabbit";
+			};
+			name = Debug;
+		};
+		88E035BA2F6896C400516964 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2SXW827956;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.darkpanel.rabbit.Dark-Aura-PanelTests";
+				PRODUCT_NAME = "Dark Aura Panel - Green Rabbit";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dark Aura Panel - Green Rabbit.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Dark Aura Panel - Green Rabbit";
+			};
+			name = Release;
+		};
+		88E035BC2F6896C400516964 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2SXW827956;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Info.plist;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.darkpanel.rabbit.Dark-Aura-PanelUITests";
+				PRODUCT_NAME = "Dark Aura Panel - Green Rabbit";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Dark Aura Panel";
+			};
+			name = Debug;
+		};
+		88E035BD2F6896C400516964 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2SXW827956;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Info.plist;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.darkpanel.rabbit.Dark-Aura-PanelUITests";
+				PRODUCT_NAME = "Dark Aura Panel - Green Rabbit";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Dark Aura Panel";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		88E0358F2F6896C300516964 /* Build configuration list for PBXProject "Dark Aura Panel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88E035B32F6896C400516964 /* Debug */,
+				88E035B42F6896C400516964 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88E035B52F6896C400516964 /* Build configuration list for PBXNativeTarget "Dark Aura Panel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88E035B62F6896C400516964 /* Debug */,
+				88E035B72F6896C400516964 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88E035B82F6896C400516964 /* Build configuration list for PBXNativeTarget "Dark Aura PanelTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88E035B92F6896C400516964 /* Debug */,
+				88E035BA2F6896C400516964 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88E035BB2F6896C400516964 /* Build configuration list for PBXNativeTarget "Dark Aura PanelUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88E035BC2F6896C400516964 /* Debug */,
+				88E035BD2F6896C400516964 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A1B2C3D4E5F6000000000005 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/RevenueCat/purchases-ios-spm.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.0;
+			};
+		};
+		A2B2C3D4E5F6000000000003 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/googleads/swift-package-manager-google-mobile-ads.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 12.0.0;
+			};
+		};
+		A3B2C3D4E5F6000000000003 /* XCRemoteSwiftPackageReference "AppLovin-MAX-Swift-Package" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 13.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A1B2C3D4E5F6000000000002 /* RevenueCat */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A1B2C3D4E5F6000000000005 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */;
+			productName = RevenueCat;
+		};
+		A1B2C3D4E5F6000000000004 /* RevenueCatUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A1B2C3D4E5F6000000000005 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */;
+			productName = RevenueCatUI;
+		};
+		A2B2C3D4E5F6000000000002 /* GoogleMobileAds */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A2B2C3D4E5F6000000000003 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */;
+			productName = GoogleMobileAds;
+		};
+		A3B2C3D4E5F6000000000002 /* AppLovinSDK */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A3B2C3D4E5F6000000000003 /* XCRemoteSwiftPackageReference "AppLovin-MAX-Swift-Package" */;
+			productName = AppLovinSDK;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 88E0358C2F6896C300516964 /* Project object */;
+}

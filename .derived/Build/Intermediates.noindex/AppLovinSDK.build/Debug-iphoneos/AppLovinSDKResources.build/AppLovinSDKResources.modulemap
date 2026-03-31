@@ -1,0 +1,4 @@
+module AppLovinSDKResources {
+header "AppLovinSDKResources-Swift.h"
+export *
+}

@@ -1,0 +1,37 @@
+{
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/Dark Aura XIT Panel/AppConstants.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/AppConstants.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/AppConstants.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/AppConstants.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/AppConstants.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/AppConstants.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/Dark Aura XIT Panel/AppDelegate.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/AppDelegate.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/Dark Aura XIT Panel/ContentView.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/ContentView.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/ContentView.swiftdeps"
+  },
+  "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/Dark Aura XIT Panel/Dark_Aura_XIT_PanelApp.swift" : {
+    "const-values" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/Dark_Aura_XIT_PanelApp.swiftconstvalues",
+    "dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/Dark_Aura_XIT_PanelApp.d",
+    "diagnostics" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/Dark_Aura_XIT_PanelApp.dia",
+    "object" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/Dark_Aura_XIT_PanelApp.o",
+    "swift-dependencies" : "/Users/mouniim/develop/ios projects/DarkAura/Dark Aura XIT Panel/.derived/Build/Intermediates.noindex/Dark Aura XIT Panel.build/Debug-iphoneos/Dark Aura XIT Panel.build/Objects-normal/arm64/Dark_Aura_XIT_PanelApp.swiftdeps"
+  }
+}
