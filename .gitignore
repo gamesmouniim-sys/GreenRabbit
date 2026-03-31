@@ -1,0 +1,20 @@
+# Xcode build artifacts
+.derived/
+build/
+*.xcuserstate
+xcuserdata/
+DerivedData/
+
+# CocoaPods / SPM
+Pods/
+.build/
+*.resolved (optional — some keep this)
+SourcePackages/
+
+# OS files
+.DS_Store
+
+# Archives
+*.ipa
+*.dSYM.zip
+*.dSYM
