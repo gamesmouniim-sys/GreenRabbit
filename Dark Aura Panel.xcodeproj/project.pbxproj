@@ -31,7 +31,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		88E035942F6896C300516964 /* Dark Aura Panel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Dark Aura Panel.app"; path = "Dark Aura Panel - Green Rabbit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		88E035942F6896C300516964 /* Dark Aura Panel - Green Rabbit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dark Aura Panel - Green Rabbit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		88E035A12F6896C400516964 /* Dark Aura PanelTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Dark Aura PanelTests.xctest"; path = "Dark Aura Panel - Green Rabbit.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		88E035AB2F6896C400516964 /* Dark Aura PanelUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Dark Aura PanelUITests.xctest"; path = "Dark Aura Panel - Green Rabbit.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -104,7 +104,7 @@
 		88E035952F6896C300516964 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				88E035942F6896C300516964 /* Dark Aura Panel.app */,
+				88E035942F6896C300516964 /* Dark Aura Panel - Green Rabbit.app */,
 				88E035A12F6896C400516964 /* Dark Aura PanelTests.xctest */,
 				88E035AB2F6896C400516964 /* Dark Aura PanelUITests.xctest */,
 			);
@@ -137,7 +137,7 @@
 				A3B2C3D4E5F6000000000002 /* AppLovinSDK */,
 			);
 			productName = "Dark Aura Panel";
-			productReference = 88E035942F6896C300516964 /* Dark Aura Panel.app */;
+			productReference = 88E035942F6896C300516964 /* Dark Aura Panel - Green Rabbit.app */;
 			productType = "com.apple.product-type.application";
 		};
 		88E035A02F6896C400516964 /* Dark Aura PanelTests */ = {
@@ -425,9 +425,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 2;
-				DEVELOPMENT_TEAM = 2SXW827956;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = Info.plist;
@@ -448,6 +448,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.darkpanel.rabbit;
 				PRODUCT_NAME = "Dark Aura Panel - Green Rabbit";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
@@ -465,9 +466,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 2;
-				DEVELOPMENT_TEAM = 2SXW827956;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = Info.plist;
@@ -488,6 +489,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.darkpanel.rabbit;
 				PRODUCT_NAME = "Dark Aura Panel - Green Rabbit";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;

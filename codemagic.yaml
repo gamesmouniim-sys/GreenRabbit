@@ -17,7 +17,7 @@ workflows:
       - name: Build IPA
         script: |
           xcodebuild \
-            -workspace "Dark Aura Panel/Dark Aura Panel.xcworkspace" \
+            -project "Dark Aura Panel.xcodeproj" \
             -scheme "Dark Aura Panel" \
             -configuration Release \
             -archivePath "$CM_BUILD_DIR/DarkAuraPanel.xcarchive" \
